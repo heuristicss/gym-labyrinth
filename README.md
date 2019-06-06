@@ -6,6 +6,6 @@
 # Installation
 
 ```bash
-cd gym-simplegame
+cd gym-labyrinth
 pip install -e .
 ```
