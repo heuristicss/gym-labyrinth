@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='gym_simplegame',
+setup(name='gym_labyrinth',
       version='0.0.1',
       install_requires=['gym']
 )
